@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameTantei", "GameTantei\GameTantei.csproj", "{3139058E-59C3-4684-887D-1FE5A22B9A20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3139058E-59C3-4684-887D-1FE5A22B9A20}.Debug|x86.ActiveCfg = Debug|x86
+		{3139058E-59C3-4684-887D-1FE5A22B9A20}.Debug|x86.Build.0 = Debug|x86
+		{3139058E-59C3-4684-887D-1FE5A22B9A20}.Release|x86.ActiveCfg = Release|x86
+		{3139058E-59C3-4684-887D-1FE5A22B9A20}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82B9DCBD-195E-4E47-99EF-94492F62F5EB}
+	EndGlobalSection
+EndGlobal
